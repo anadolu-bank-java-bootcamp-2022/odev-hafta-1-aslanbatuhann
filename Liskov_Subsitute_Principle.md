@@ -11,3 +11,4 @@ LSP’ye göre herhangi bir sınıf kullanıcısı, bu sınıfın alt sınıflar
 
 Oluşturulan metotlar üst sınıf davranışları örnek alınarak programlanmıştır.Kullanıcı sınıflar ideal durumda alt sınıfların varlığından haberdar bile olmamalıdır.
 
+![Getting Started](x1.jpg)
