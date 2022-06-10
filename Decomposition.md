@@ -17,3 +17,5 @@ Geliştiricilerin çoğunun birçok sorumluluğu olan devasa işlevleri var.Çok
  Bir programı bir dizi parça olarak organize etmek için bir stratejidir ve genellikle bir program metnini organize etmenin belirli bir yolunu ima eder. Genellikle bir decomposition kullanmanın amacı, programın karmaşıklığını ve sürdürülebilirliğini optimize etmektir.
 
 Decomposition, bu parçalar arasındaki statik bağımlılıkları engellemek bu yüzden parçalara ayırmayı önerir.
+
+![](DC-1.jpg)
